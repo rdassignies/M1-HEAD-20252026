@@ -1,4 +1,4 @@
-# Usage de l'intelligence artificielle pour les professionnels du droit
+# Usage avancé de l'intelligence artificielle pour les professionnels du droit
 
 ## M1 - Droit et pratique des affaires | 1er trimestre 2025/2026
 
@@ -41,7 +41,7 @@ Ce cours poursuit un double objectif pour les futurs juristes :
 
 **Activité pratique :** Conception d'un parcours de formation pour les nouveaux métiers
 
-### Module 3 : Utilisation pratique des modèles de langage (7h00)
+### Module 3 : Utilisation pratique des modèles de langage (9h00)
 **Objectifs :** Maîtriser le pilotage des outils IA pour les professionnels du droit
 
 **Contenu :**
@@ -51,6 +51,7 @@ Ce cours poursuit un double objectif pour les futurs juristes :
   - Approche itérative et amélioration successive
   - Prompt systems et bibliothèques de prompts
   - Capacités multimodales pour documents visuels
+  - Agents autonomes et raisonnement 
 
 ## Évaluation
 
