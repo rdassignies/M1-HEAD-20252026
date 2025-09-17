@@ -68,10 +68,6 @@ Chaque module inclut une bibliographie avec :
 - Ressources pratiques et outils du marché
 - **Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
 
-## FAQ
-
-*Section en cours de rédaction - Questions fréquemment posées sur le cours*
-
 ---
 
 *Cours conçu pour être accessible aux étudiants sans background technique, avec une approche progressive vers l'autonomie dans l'utilisation des outils IA.*
