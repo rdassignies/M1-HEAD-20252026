@@ -67,6 +67,7 @@ Chaque module inclut une bibliographie avec :
 - Articles de recherche académique (ICML, arXiv)
 - Ressources pratiques et outils du marché
 - **Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
+- **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
 
 ---
 
