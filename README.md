@@ -65,6 +65,11 @@ Chaque module inclut une bibliographie avec :
 - Documents de vulgarisation accessibles
 - Articles de recherche académique (ICML, arXiv)
 - Ressources pratiques et outils du marché
+- **Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
+
+## FAQ
+
+*Section en cours de rédaction - Questions fréquemment posées sur le cours*
 
 ---
 
