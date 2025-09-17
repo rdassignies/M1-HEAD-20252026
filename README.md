@@ -17,7 +17,6 @@ Ce cours poursuit un double objectif pour les futurs juristes :
 - **Approche hybride** : Combinaison de présentations théoriques et d'ateliers pratiques
 - **Mise en œuvre concrète** : Scripts Python, exploration de plateformes du marché, construction d'outils (GPTs, agent builder)
 - **Aucun prérequis** en IA ou programmation requis
-- **Ressources actualisées** disponibles sur : https://github.com/rdassignies/usage-intelligence-artificielle-professionnels-droit
 
 ## Programme détaillé
 
