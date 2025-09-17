@@ -1,5 +1,7 @@
 # Usage avancé de l'intelligence artificielle pour les professionnels du droit
 
+**📖 Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
+
 ## M1 - Droit et pratique des affaires | 1er trimestre 2025/2026
 
 **Intervenant :** Raphaël d'Assignies
@@ -65,7 +67,6 @@ Chaque module inclut une bibliographie avec :
 - Documents de vulgarisation accessibles
 - Articles de recherche académique (ICML, arXiv)
 - Ressources pratiques et outils du marché
-- **Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
 - **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
 
 ---
