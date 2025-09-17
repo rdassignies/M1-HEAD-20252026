@@ -69,6 +69,13 @@ Chaque module inclut une bibliographie avec :
 - Ressources pratiques et outils du marché
 - **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
 
+## Principaux fournisseurs de services d'IA
+
+- **OpenAI** : ChatGPT, GPT-4
+- **Anthropic** : Claude
+- **Mistral AI** : Mistral, Le Chat
+- **Google** : Gemini
+
 ---
 
 *Cours conçu pour être accessible aux étudiants sans background technique, avec une approche progressive vers l'autonomie dans l'utilisation des outils IA.*
