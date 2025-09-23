@@ -76,6 +76,9 @@ Chaque module inclut une bibliographie avec :
 - **Mistral AI** : Mistral, Le Chat
 - **Google** : Gemini
 
+## Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
+Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
+
 ---
 
 *Cours conçu pour être accessible aux étudiants sans background technique, avec une approche progressive vers l'autonomie dans l'utilisation des outils IA.*
