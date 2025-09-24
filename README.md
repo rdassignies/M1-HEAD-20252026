@@ -89,7 +89,7 @@ Contexte : EuroAI, société allemande qui développe des modèles d'intelligenc
 - Les poids du modèle seront publiquement accessibles
 
 Tâche : Rédigez une note d'analyse pour le comité de direction d'EuroAI répondant aux trois questions suivantes. Votre réponse doit être entièrement justifiée en citant les articles et paragraphes pertinents des sources.
-1. Le "Modèle Alpha" est-il un "modèle d'IA à usage général" (GPAI) au sens du Réglement européen sur l'intelligence artificielle (RIA) ?
+1. Le "Modèle Alpha" est-il un "modèle d'IA à usage général" (GPAI) au sens du réglement européen sur l'intelligence artificielle (RIA) ?
 2. EuroAI est-elle considérée comme le "fournisseur" de ce modèle si elle le met à disposition via une API ?
 3. EuroAI peut-elle bénéficier des exemptions pour les modèles open-source prévues aux articles 53(2) et 54(6) du RIA ?
 
