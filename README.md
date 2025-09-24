@@ -76,17 +76,17 @@ Chaque module inclut une bibliographie avec :
 - **Mistral AI** : Mistral, Le Chat
 - **Google** : Gemini
 
-## Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
+# Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
 Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
 
-** Exercice 1 : Qualification et Statut ** 
+## Exercice 1 : Qualification et Statut
 
 Contexte : EuroAI, société allemande qui développe des modèles d'intelligence artificielle, vient de finaliser l'entraînement de son premier modèle, "Modèle Alpha".
 
-• Calcul d'entraînement : L'entraînement a nécessité 5 x 10²³ FLOPs
-• Capacités : Le modèle est capable de générer du texte de haute qualité et du code informatique
-• Modèle de distribution : EuroAI prévoit de le publier sous une licence qui autorise l'accès, la modification et la distribution, mais avec la restriction suivante : gratuit pour la recherche académique, mais une licence commerciale est requise pour toute entreprise ayant plus de 100 employés
-. Les poids du modèle seront publiquement accessibles
+- Calcul d'entraînement : L'entraînement a nécessité 5 x 10²³ FLOPs
+- Capacités : Le modèle est capable de générer du texte de haute qualité et du code informatique
+- Modèle de distribution : EuroAI prévoit de le publier sous une licence qui autorise l'accès, la modification et la distribution, mais avec la restriction suivante : gratuit pour la recherche académique, mais une licence commerciale est requise pour toute entreprise ayant plus de 100 employés
+- Les poids du modèle seront publiquement accessibles
 
 Tâche : Rédigez une note d'analyse pour le comité de direction d'EuroAI répondant aux trois questions suivantes. Votre réponse doit être entièrement justifiée en citant les articles et paragraphes pertinents des sources.
 1. Le "Modèle Alpha" est-il un "modèle d'IA à usage général" (GPAI) au sens du Réglement européen sur l'intelligence artificielle (RIA) ?
