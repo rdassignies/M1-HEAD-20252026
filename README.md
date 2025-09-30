@@ -95,7 +95,8 @@ Tâche : Rédigez une note d'analyse pour le comité de direction d'EuroAI répo
 
 ## Documents nécessaires pour réaliser le cas pratique : 
 
-https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689 
+[https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689 
+](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689)
 
 https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act
 
