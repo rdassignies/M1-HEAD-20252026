@@ -105,6 +105,22 @@ https://ec.europa.eu/newsroom/dae/redirection/document/118115
 
 https://ec.europa.eu/newsroom/dae/redirection/document/118119
 
+## Etude de quelques cas d'hallucinations dans le domaine juridique 
+
+Merken, S. (2023, June 22). New York lawyers sanctioned for using fake ChatGPT cases in legal brief. Reuters. 
+
+https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
+
+Kalai, A. T., Nachum, O., Vempala, S. S., & Zhang, E. (2025, September 4). Why language models hallucinate. OpenAI. 
+
+https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf
+
+Zeff, M. (2025, May 15). Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation. TechCrunch. 
+
+https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/
+
+
+
 ---
 
 
