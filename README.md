@@ -98,6 +98,42 @@ Chaque module inclut une bibliographie avec :
 
 ## Écosystème des modèles de langage (LLM)
 
+### Grille de lecture des caractéristiques des modèles
+
+Les modèles de langage se distinguent par plusieurs caractéristiques techniques et fonctionnelles :
+
+#### Taille et capacité
+- **Paramètres** : Nombre de paramètres du modèle (ex: 3B = 3 milliards, 70B = 70 milliards, 405B = 405 milliards)
+  - Petits modèles (< 10B) : rapides, moins coûteux, performances limitées
+  - Modèles moyens (10-100B) : bon équilibre performance/coût
+  - Grands modèles (> 100B) : performances maximales, coûteux
+
+#### Spécialisation
+- **Usage général** : Capable de traiter une large variété de tâches (texte, analyse, raisonnement)
+- **Spécialisés** :
+  - **Code** : Optimisés pour la génération et l'analyse de code (ex: Codestral, GPT-4o)
+  - **Vision** : Capacité multimodale image+texte (ex: GPT-4o, Claude 3.5, Gemini, Qwen-VL)
+  - **Raisonnement** : Optimisés pour la réflexion complexe (ex: o1, DeepSeek-R1)
+
+#### Fenêtre de contexte
+- **Contexte court** (< 32k tokens) : Conversations et documents limités
+- **Contexte long** (100k-200k tokens) : Analyse de documents étendus
+- **Contexte très long** (1M+ tokens) : Base de code complète, corpus juridiques
+
+#### Modalités
+- **Texte uniquement** : Traitement de texte classique
+- **Multimodal** : Texte + images, parfois audio et vidéo
+
+#### Distribution
+- **Propriétaire** : Accès uniquement via API ou interface web (ChatGPT, Claude, Gemini)
+- **Open-source** : Poids du modèle téléchargeables (Llama, Mistral, Qwen)
+- **Open-weight** : Poids disponibles mais formation/données non divulguées
+
+#### Performance et coût
+- **Vitesse** : Tokens générés par seconde
+- **Prix** : Coût par million de tokens (input/output)
+- **Qualité** : Mesurée via benchmarks (MMLU, HumanEval, etc.)
+
 ### Principaux fournisseurs et leurs modèles
 
 #### 🇺🇸 **OpenAI** (États-Unis)
