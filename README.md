@@ -105,6 +105,8 @@ https://ec.europa.eu/newsroom/dae/redirection/document/118115
 
 https://ec.europa.eu/newsroom/dae/redirection/document/118119
 
+## Exercice : élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
+
 ## Etude de quelques cas d'hallucinations dans le domaine juridique 
 
 Merken, S. (2023, June 22). New York lawyers sanctioned for using fake ChatGPT cases in legal brief. Reuters. 
