@@ -69,12 +69,115 @@ Chaque module inclut une bibliographie avec :
 - Ressources pratiques et outils du marché
 - **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
 
-## Principaux fournisseurs de services d'IA
+## Écosystème des modèles de langage (LLM)
 
-- **OpenAI** : ChatGPT, GPT-4
-- **Anthropic** : Claude
-- **Mistral AI** : Mistral, Le Chat
-- **Google** : Gemini
+### Principaux fournisseurs et leurs modèles
+
+#### 🇺🇸 **OpenAI** (États-Unis)
+- **Modèles** : GPT-4, GPT-4o, GPT-4o mini, o1, o1-mini, GPT-3.5
+- **Système** : [ChatGPT](https://chat.openai.com)
+- **Site officiel** : https://openai.com
+
+#### 🇺🇸 **Anthropic** (États-Unis)
+- **Modèles** : Claude 3.5 Sonnet, Claude 3.5 Haiku, Claude 3 Opus
+- **Système** : [Claude.ai](https://claude.ai)
+- **Site officiel** : https://anthropic.com
+
+#### 🇺🇸 **Google** (États-Unis)
+- **Modèles** : Gemini 2.0, Gemini 1.5 Pro, Gemini 1.5 Flash
+- **Système** : [Gemini](https://gemini.google.com)
+- **Site officiel** : https://deepmind.google
+
+#### 🇫🇷 **Mistral AI** (France)
+- **Modèles** : Mistral Large, Mistral Medium, Mistral Small, Codestral
+- **Système** : [Le Chat](https://chat.mistral.ai)
+- **Site officiel** : https://mistral.ai
+
+#### 🇺🇸 **Meta** (États-Unis)
+- **Modèles** : Llama 3.3, Llama 3.2, Llama 3.1
+- **Système** : Modèles open-source (pas de chatbot officiel propriétaire)
+- **Site officiel** : https://llama.meta.com
+
+#### 🇨🇳 **DeepSeek** (Chine)
+- **Modèles** : DeepSeek-V3, DeepSeek-R1
+- **Système** : [DeepSeek Chat](https://chat.deepseek.com)
+- **Site officiel** : https://deepseek.com
+
+#### 🇨🇳 **Alibaba** (Chine)
+- **Modèles** : Qwen 2.5, Qwen-VL
+- **Système** : [Qwen Chat](https://qwenlm.ai)
+- **Site officiel** : https://qwenlm.ai
+
+#### 🇺🇸 **xAI** (États-Unis)
+- **Modèles** : Grok, Grok-2
+- **Système** : [Grok](https://x.ai) (intégré à X/Twitter Premium)
+- **Site officiel** : https://x.ai
+
+#### 🇺🇸 **Cohere** (États-Unis/Canada)
+- **Modèles** : Command R+, Command R
+- **Système** : API principalement (pas de chatbot grand public)
+- **Site officiel** : https://cohere.com
+
+### Schéma de l'écosystème LLM
+
+```mermaid
+graph TB
+    subgraph Amérique["🇺🇸 États-Unis"]
+        OpenAI[OpenAI<br/>GPT-4, o1]
+        Anthropic[Anthropic<br/>Claude 3.5]
+        Google[Google DeepMind<br/>Gemini 2.0]
+        Meta[Meta<br/>Llama 3.3]
+        xAI[xAI<br/>Grok]
+        Cohere[Cohere<br/>Command R+]
+    end
+
+    subgraph Europe["🇫🇷 Europe"]
+        Mistral[Mistral AI<br/>Mistral Large]
+    end
+
+    subgraph Asie["🇨🇳 Chine"]
+        DeepSeek[DeepSeek<br/>DeepSeek-V3]
+        Alibaba[Alibaba<br/>Qwen 2.5]
+    end
+
+    OpenAI --> ChatGPT[ChatGPT]
+    Anthropic --> Claude[Claude.ai]
+    Google --> Gemini[Gemini]
+    Mistral --> LeChat[Le Chat]
+    DeepSeek --> DSChat[DeepSeek Chat]
+    Alibaba --> QwenChat[Qwen Chat]
+    xAI --> Grok[Grok sur X]
+
+    style OpenAI fill:#10a37f
+    style Anthropic fill:#d4a373
+    style Google fill:#4285f4
+    style Mistral fill:#f2a73b
+    style Meta fill:#0668e1
+    style DeepSeek fill:#1a1a1a
+    style Alibaba fill:#ff6a00
+    style xAI fill:#000000
+```
+
+### Ressources d'évaluation et de comparaison
+
+#### Benchmarks et analyses
+- **Artificial Analysis** : https://artificialanalysis.ai
+  - Comparaisons de performance, coût, vitesse et qualité des LLM
+  - Analyses indépendantes et mises à jour régulières
+
+- **LMSYS Chatbot Arena** : https://chat.lmsys.org
+  - Classement communautaire basé sur des comparaisons aveugles
+  - Leaderboard : https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+- **OpenLLM Leaderboard** (Hugging Face) : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+  - Benchmarks académiques standardisés pour modèles open-source
+
+#### Documentation et recherche
+- **Papers with Code** : https://paperswithcode.com/methods/category/language-models
+  - Articles de recherche avec implémentations
+
+- **Hugging Face** : https://huggingface.co/models
+  - Plateforme de partage de modèles open-source
 
 # Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
 Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
