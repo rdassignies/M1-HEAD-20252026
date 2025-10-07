@@ -6,7 +6,7 @@
 
 ## 📋 Notes de version du document
 
-### Version 2.0 - 7 janvier 2025
+### Version 2.0 - 7 octobre 2025
 
 **Nouveautés :**
 - ✨ **Écosystème LLM enrichi** : Ajout de 9 fournisseurs majeurs (OpenAI, Anthropic, Google, Mistral AI, Meta, DeepSeek, Alibaba, xAI, Cohere) avec leurs modèles et systèmes associés
@@ -14,6 +14,7 @@
 - 📈 **Ressources d'évaluation** : Artificial Analysis, LMSYS Chatbot Arena, OpenLLM Leaderboard
 - 🔍 **Transparence IA** : Ajout de System Prompts Leaks pour comprendre le fonctionnement interne des assistants IA
 - 🗺️ **Schéma Mermaid** : Visualisation de l'écosystème LLM par zones géographiques
+- 📝 **Bonnes pratiques de rédaction** : Ajout du guide de rédaction professionnelle avec Word
 
 ### Version 1.0 - Décembre 2024
 - Version initiale du support de cours
@@ -86,6 +87,13 @@ Chaque module inclut une bibliographie avec :
 - Articles de recherche académique (ICML, arXiv)
 - Ressources pratiques et outils du marché
 - **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
+
+### Bonnes pratiques de rédaction
+- **[Fiche pratique - Rédaction professionnelle avec Word](https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-redaction-word.md)**
+  - Guide complet pour la création de documents professionnels structurés
+  - Styles hiérarchiques, typographie, pagination, citations et références
+  - Conventions juridiques, accessibilité et raccourcis clavier essentiels
+  - Applicable à Word, Google Docs, OpenOffice et autres traitements de texte
 
 ### Ressources essentielles pour l'analyse des LLM
 
