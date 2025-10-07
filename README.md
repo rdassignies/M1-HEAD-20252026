@@ -69,6 +69,33 @@ Chaque module inclut une bibliographie avec :
 - Ressources pratiques et outils du marché
 - **[Techniques de prompting avancé en matière juridique](./techniques-prompting-juridique.md)** : Exemples concrets et modèles prêts à l'emploi
 
+### Ressources essentielles pour l'analyse des LLM
+
+#### Benchmarks et comparaisons
+- **Artificial Analysis** : https://artificialanalysis.ai
+  - Comparaisons de performance, coût, vitesse et qualité des LLM
+  - Analyses indépendantes et mises à jour régulières
+
+- **LMSYS Chatbot Arena** : https://chat.lmsys.org
+  - Classement communautaire basé sur des comparaisons aveugles
+  - Leaderboard : https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+- **OpenLLM Leaderboard** (Hugging Face) : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+  - Benchmarks académiques standardisés pour modèles open-source
+
+#### Transparence et analyse des systèmes IA
+- **System Prompts Leaks** : https://github.com/asgeirtj/system_prompts_leaks
+  - Collection communautaire de prompts système extraits des principaux chatbots IA
+  - Inclut les instructions système de ChatGPT, Claude, Gemini, Perplexity, Grok et autres
+  - Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
+
+#### Documentation et recherche
+- **Papers with Code** : https://paperswithcode.com/methods/category/language-models
+  - Articles de recherche avec implémentations
+
+- **Hugging Face** : https://huggingface.co/models
+  - Plateforme de partage de modèles open-source
+
 ## Écosystème des modèles de langage (LLM)
 
 ### Principaux fournisseurs et leurs modèles
@@ -157,33 +184,6 @@ graph TB
     style Alibaba fill:#ff6a00
     style xAI fill:#000000
 ```
-
-### Ressources d'évaluation et de comparaison
-
-#### Benchmarks et analyses
-- **Artificial Analysis** : https://artificialanalysis.ai
-  - Comparaisons de performance, coût, vitesse et qualité des LLM
-  - Analyses indépendantes et mises à jour régulières
-
-- **LMSYS Chatbot Arena** : https://chat.lmsys.org
-  - Classement communautaire basé sur des comparaisons aveugles
-  - Leaderboard : https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-
-- **OpenLLM Leaderboard** (Hugging Face) : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-  - Benchmarks académiques standardisés pour modèles open-source
-
-#### Documentation et recherche
-- **Papers with Code** : https://paperswithcode.com/methods/category/language-models
-  - Articles de recherche avec implémentations
-
-- **Hugging Face** : https://huggingface.co/models
-  - Plateforme de partage de modèles open-source
-
-#### Transparence et analyse des systèmes IA
-- **System Prompts Leaks** : https://github.com/asgeirtj/system_prompts_leaks
-  - Collection communautaire de prompts système extraits des principaux chatbots IA
-  - Inclut les instructions système de ChatGPT, Claude, Gemini, Perplexity, Grok et autres
-  - Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
 
 # Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
 Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
