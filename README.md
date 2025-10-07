@@ -179,6 +179,12 @@ graph TB
 - **Hugging Face** : https://huggingface.co/models
   - Plateforme de partage de modèles open-source
 
+#### Transparence et analyse des systèmes IA
+- **System Prompts Leaks** : https://github.com/asgeirtj/system_prompts_leaks
+  - Collection communautaire de prompts système extraits des principaux chatbots IA
+  - Inclut les instructions système de ChatGPT, Claude, Gemini, Perplexity, Grok et autres
+  - Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
+
 # Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
 Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
 
