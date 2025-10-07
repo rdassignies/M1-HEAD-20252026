@@ -2,6 +2,24 @@
 
 **📖 Support de cours interactif** : https://my.beekast.com/kast/68c972a87c878d77afd23160/presentation
 
+---
+
+## 📋 Notes de version du document
+
+### Version 2.0 - 7 janvier 2025
+
+**Nouveautés :**
+- ✨ **Écosystème LLM enrichi** : Ajout de 9 fournisseurs majeurs (OpenAI, Anthropic, Google, Mistral AI, Meta, DeepSeek, Alibaba, xAI, Cohere) avec leurs modèles et systèmes associés
+- 📊 **Grille de lecture des modèles** : Explication des caractéristiques techniques (paramètres, spécialisation, contexte, modalités, distribution)
+- 📈 **Ressources d'évaluation** : Artificial Analysis, LMSYS Chatbot Arena, OpenLLM Leaderboard
+- 🔍 **Transparence IA** : Ajout de System Prompts Leaks pour comprendre le fonctionnement interne des assistants IA
+- 🗺️ **Schéma Mermaid** : Visualisation de l'écosystème LLM par zones géographiques
+
+### Version 1.0 - Décembre 2024
+- Version initiale du support de cours
+
+---
+
 ## M1 - Droit et pratique des affaires | 1er trimestre 2025/2026
 
 **Intervenant :** Raphaël d'Assignies
