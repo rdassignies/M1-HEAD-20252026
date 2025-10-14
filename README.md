@@ -126,6 +126,17 @@ https://ec.europa.eu/newsroom/dae/redirection/document/118119
 
 ## Exercice : élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
 
+**Consignes :**
+1. Choisir un cours de droit (contrats, responsabilité civile, droit du travail, etc.)
+2. Rédiger un cas pratique avec une situation factuelle détaillée
+3. Identifier les sources juridiques permettant d'y répondre (codes, lois, jurisprudence)
+4. Tester différentes techniques de prompting pour résoudre le cas :
+   - Prompt simple (question directe)
+   - Chain-of-Thought (CoT) - raisonnement pas à pas
+   - Few-shot learning (avec exemples)
+   - Prompt structuré avec rôle et format de sortie
+5. Comparer les résultats obtenus et analyser la qualité des réponses
+
 ## Etude de quelques cas d'hallucinations dans le domaine juridique 
 
 Merken, S. (2023, June 22). New York lawyers sanctioned for using fake ChatGPT cases in legal brief. Reuters. 
