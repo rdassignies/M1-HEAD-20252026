@@ -94,6 +94,52 @@ Chaque module inclut une bibliographie avec :
   - Styles hiérarchiques, typographie, pagination, citations et références
   - Conventions juridiques, accessibilité et raccourcis clavier essentiels
   - Applicable à Word, Google Docs, OpenOffice et autres traitements de texte
+ 
+# Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
+Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
+
+## Exercice 1 : Qualification et Statut
+
+Contexte : EuroAI, société allemande qui développe des modèles d'intelligence artificielle, vient de finaliser l'entraînement de son premier modèle, "Modèle Alpha".
+
+- Calcul d'entraînement : L'entraînement a nécessité 5 x 10²³ FLOPs
+- Capacités : Le modèle est capable de générer du texte de haute qualité et du code informatique
+- Modèle de distribution : EuroAI prévoit de le publier sous une licence qui autorise l'accès, la modification et la distribution, mais avec la restriction suivante : gratuit pour la recherche académique, mais une licence commerciale est requise pour toute entreprise ayant plus de 100 employés
+- Les poids du modèle seront publiquement accessibles
+
+Tâche : Rédigez une note d'analyse pour le comité de direction d'EuroAI répondant aux trois questions suivantes. Votre réponse doit être entièrement justifiée en citant les articles et paragraphes pertinents des sources.
+1. Le "Modèle Alpha" est-il un "modèle d'IA à usage général" (GPAI) au sens du réglement européen sur l'intelligence artificielle (RIA) ?
+2. EuroAI est-elle considérée comme le "fournisseur" de ce modèle si elle le met à disposition via une API ?
+3. EuroAI peut-elle bénéficier des exemptions pour les modèles open-source prévues aux articles 53(2) et 54(6) du RIA ?
+
+## Documents nécessaires pour réaliser le cas pratique : 
+
+https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689
+
+https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act
+
+https://ec.europa.eu/newsroom/dae/redirection/document/118120 
+
+https://ec.europa.eu/newsroom/dae/redirection/document/118115
+
+https://ec.europa.eu/newsroom/dae/redirection/document/118119
+
+## Exercice : élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
+
+## Etude de quelques cas d'hallucinations dans le domaine juridique 
+
+Merken, S. (2023, June 22). New York lawyers sanctioned for using fake ChatGPT cases in legal brief. Reuters. 
+
+https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
+
+Kalai, A. T., Nachum, O., Vempala, S. S., & Zhang, E. (2025, September 4). Why language models hallucinate. OpenAI. 
+
+https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf
+
+Zeff, M. (2025, May 15). Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation. TechCrunch. 
+
+https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/
+
 
 ### Ressources essentielles pour l'analyse des LLM
 
@@ -247,50 +293,6 @@ graph TB
     style xAI fill:#000000
 ```
 
-# Cas pratique : une étude du Réglement européen sur l'intelligence artificielle 
-Point de départ : https://digital-strategy.ec.europa.eu/fr/policies/european-approach-artificial-intelligence 
-
-## Exercice 1 : Qualification et Statut
-
-Contexte : EuroAI, société allemande qui développe des modèles d'intelligence artificielle, vient de finaliser l'entraînement de son premier modèle, "Modèle Alpha".
-
-- Calcul d'entraînement : L'entraînement a nécessité 5 x 10²³ FLOPs
-- Capacités : Le modèle est capable de générer du texte de haute qualité et du code informatique
-- Modèle de distribution : EuroAI prévoit de le publier sous une licence qui autorise l'accès, la modification et la distribution, mais avec la restriction suivante : gratuit pour la recherche académique, mais une licence commerciale est requise pour toute entreprise ayant plus de 100 employés
-- Les poids du modèle seront publiquement accessibles
-
-Tâche : Rédigez une note d'analyse pour le comité de direction d'EuroAI répondant aux trois questions suivantes. Votre réponse doit être entièrement justifiée en citant les articles et paragraphes pertinents des sources.
-1. Le "Modèle Alpha" est-il un "modèle d'IA à usage général" (GPAI) au sens du réglement européen sur l'intelligence artificielle (RIA) ?
-2. EuroAI est-elle considérée comme le "fournisseur" de ce modèle si elle le met à disposition via une API ?
-3. EuroAI peut-elle bénéficier des exemptions pour les modèles open-source prévues aux articles 53(2) et 54(6) du RIA ?
-
-## Documents nécessaires pour réaliser le cas pratique : 
-
-https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689
-
-https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act
-
-https://ec.europa.eu/newsroom/dae/redirection/document/118120 
-
-https://ec.europa.eu/newsroom/dae/redirection/document/118115
-
-https://ec.europa.eu/newsroom/dae/redirection/document/118119
-
-## Exercice : élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
-
-## Etude de quelques cas d'hallucinations dans le domaine juridique 
-
-Merken, S. (2023, June 22). New York lawyers sanctioned for using fake ChatGPT cases in legal brief. Reuters. 
-
-https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
-
-Kalai, A. T., Nachum, O., Vempala, S. S., & Zhang, E. (2025, September 4). Why language models hallucinate. OpenAI. 
-
-https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf
-
-Zeff, M. (2025, May 15). Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation. TechCrunch. 
-
-https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/
 
 
 
