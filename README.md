@@ -6,7 +6,11 @@
 
 ## 📋 Notes de version du document
 
-### Version 2.0 - 7 octobre 2025
+### Version 1.2 - 14 octobre 2025
+
+- **Ajout exercice** : transformer un cas pratique de droit à la forme agentique en utilisant différentes techniques de prompting
+
+### Version 1.1 - 7 octobre 2025
 
 **Nouveautés :**
 - ✨ **Écosystème LLM enrichi** : Ajout de 9 fournisseurs majeurs (OpenAI, Anthropic, Google, Mistral AI, Meta, DeepSeek, Alibaba, xAI, Cohere) avec leurs modèles et systèmes associés
@@ -124,7 +128,7 @@ https://ec.europa.eu/newsroom/dae/redirection/document/118115
 
 https://ec.europa.eu/newsroom/dae/redirection/document/118119
 
-## Exercice (mettre Date ! ): élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
+## Exercice : élaborer, sur le même modèle, un exercice à partir d'un de vos cours de droit
 
 **Consignes :**
 1. Choisir un cours de droit (contrats, responsabilité civile, droit du travail, etc.)
