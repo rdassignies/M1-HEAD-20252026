@@ -8,13 +8,14 @@
 
 ### Version 1.3 - 18 octobre 2025
 
+**Modalités de contrôle des connaissances**
+- Evaluation du cours rédigé par l'étudiant (40%)
+- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix (60%)
+
 **Ajout liens**
 - Prompt simple avec variables https://colab.research.google.com/drive/1rh6WcOtXV--52QoZtsjszkNPaIN3ns7g#scrollTo=K7WBWT4qJl-h
 - Prompt dynamique avec interface utilisateur https://colab.research.google.com/drive/1aZFdkbeXhrIDHiZz4Ntx2rBBiFkKaLFk#scrollTo=Xq2WnCxCLzKp
 
-**Modalités de contrôle des connaissances**
-- Evaluation du cours rédigé par l'étudiant (40%)
-- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix (60%)
 
 ### Version 1.2 - 14 octobre 2025
 
