@@ -6,6 +6,12 @@
 
 ## 📋 Notes de version du document
 
+### Version 1.3 - 21 octobre 2025
+
+**Ajout liens**
+- Prompt simple avec variables https://colab.research.google.com/drive/1rh6WcOtXV--52QoZtsjszkNPaIN3ns7g#scrollTo=K7WBWT4qJl-h
+- Prompt dynamique avec interface utilisateur https://colab.research.google.com/drive/1aZFdkbeXhrIDHiZz4Ntx2rBBiFkKaLFk#scrollTo=Xq2WnCxCLzKp
+
 ### Version 1.2 - 14 octobre 2025
 
 - **Ajout exercice** : transformer un cas pratique de droit à la forme agentique en utilisant différentes techniques de prompting
