@@ -10,7 +10,9 @@
 
 **Modalités de contrôle des connaissances**
 - Evaluation du cours rédigé par l'étudiant (40%)
-- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix (60%)
+- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix (60%) :
+
+https://docs.google.com/document/d/1Q3sK7rUUjFEk3fFS0mKpkmIDp8dDHSyTFQd3XYqXyok/edit?tab=t.0
 
 **Ajout liens**
 - Prompt simple avec variables https://colab.research.google.com/drive/1rh6WcOtXV--52QoZtsjszkNPaIN3ns7g#scrollTo=K7WBWT4qJl-h
