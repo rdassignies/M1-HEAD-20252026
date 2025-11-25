@@ -9,8 +9,8 @@
 ### Version 1.3 - 18 octobre 2025
 
 **Modalités de contrôle des connaissances**
-- Evaluation du cours rédigé par l'étudiant (40%)
-- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix (60%) :
+
+- Rédaction d'un processus complet d'évaluation à partir d'une matière juridique au choix :
 
 https://docs.google.com/document/d/1Q3sK7rUUjFEk3fFS0mKpkmIDp8dDHSyTFQd3XYqXyok/edit?tab=t.0
 
